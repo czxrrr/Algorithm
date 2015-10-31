@@ -15,6 +15,7 @@
 #include<math.h>
 using namespace std;
 
+
 int win;
 int n,m;
 const int N=17;
